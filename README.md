@@ -22,6 +22,7 @@ This site is maintained by Pourya Shamsolmoali.
 ## Overview
 - Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy [[arXiv]](https://arxiv.org/abs/1906.01529)
 - A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications [[arXiv]](https://arxiv.org/abs/2001.06937)
+- A Review: Generative Adversarial Networks [[paper]](https://ieeexplore.ieee.org/abstract/document/8833686)
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
 
 ## Theory & Machine Learning
