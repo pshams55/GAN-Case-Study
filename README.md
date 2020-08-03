@@ -31,6 +31,13 @@ This site is maintained by Pourya Shamsolmoali.
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
 
 ## Theory & Machine Learning
+- CapsGAN: Using Dynamic Routing for Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1806.03968)
+- BAGAN: Data Augmentation with Balancing GAN [[arXiv]](https://arxiv.org/abs/1803.09655)
+- Hierarchical Implicit Models and Likelihood-Free Variational Inference [[arXiv]](https://arxiv.org/abs/1702.08896)
+- Distributional Multivariate Policy Evaluation and Exploration with the Bellman GAN [[arXiv]](https://arxiv.org/abs/1808.01960)
+- Adversarial Feature Learning [[arXiv]](https://arxiv.org/abs/1605.09782v7)
+- BinGAN: Learning Compact Binary Descriptors with a Regularized GAN [[arXiv]](https://arxiv.org/abs/1806.06778)
+- BourGAN: Generative Networks with Metric Embeddings [[arXiv]](https://arxiv.org/abs/1805.07674)
 - A Classification-Based Perspective on GAN Distributions [[arXiv]](https://arxiv.org/abs/1711.00970)
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv]](https://arxiv.org/abs/1611.03852)
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
@@ -134,7 +141,12 @@ This site is maintained by Pourya Shamsolmoali.
 - Wasserstein GAN [[arXiv]](https://arxiv.org/abs/1701.07875) [[Code]](https://github.com/martinarjovsky/WassersteinGAN) [[Code]](https://github.com/wiseodd/generative-models)
 
 ## Applied Vision
-- 3D Object Reconstruction from a Single Depth View with Adversarial Learning [[arXiv]](https://arxiv.org/abs/1708.07969)
+- C-RNN-GAN: Continuous recurrent neural networks with adversarial training [[arXiv]](https://arxiv.org/abs/1611.09904)
+- Accelerating Science with Generative Adversarial Networks: An Application to 3D Particle Showers in Multi-Layer Calorimeters [[arXiv]](https://arxiv.org/abs/1705.02355)
+- Face Aging with Contextual Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1802.00237)
+- Boundary-Seeking Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.08431v1)
+- Generative Adversarial Frontal View to Bird View Synthesis [[arXiv]](https://arxiv.org/abs/1808.00327)
+- Toward Multimodal Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1711.11586)
 - 3D Shape Induction from 2D Views of Multiple Objects [[arXiv]](https://arxiv.org/abs/1612.05872)
 - A step towards procedural terrain generation with GANs [[arXiv]](https://arxiv.org/abs/1707.03383) [[Code]](https://github.com/christopher-beckham/gan-heightmaps)
 - Abnormal Event Detection in Videos using Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1708.09644)
