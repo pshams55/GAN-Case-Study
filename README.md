@@ -39,6 +39,7 @@ This site is maintained by Pourya Shamsolmoali.
 - BinGAN: Learning Compact Binary Descriptors with a Regularized GAN [[arXiv]](https://arxiv.org/abs/1806.06778)
 - BourGAN: Generative Networks with Metric Embeddings [[arXiv]](https://arxiv.org/abs/1805.07674)
 - A Classification-Based Perspective on GAN Distributions [[arXiv]](https://arxiv.org/abs/1711.00970)
+- Conditional Infilling GANs for Data Augmentation in Mammogram Classification [[arXiv]](https://arxiv.org/abs/1807.08093)
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv]](https://arxiv.org/abs/1611.03852)
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
 - Activation Maximization Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1703.02000)
@@ -145,6 +146,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Accelerating Science with Generative Adversarial Networks: An Application to 3D Particle Showers in Multi-Layer Calorimeters [[arXiv]](https://arxiv.org/abs/1705.02355)
 - Face Aging with Contextual Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1802.00237)
 - Boundary-Seeking Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.08431v1)
+- Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1809.00437)
 - Generative Adversarial Frontal View to Bird View Synthesis [[arXiv]](https://arxiv.org/abs/1808.00327)
 - Toward Multimodal Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1711.11586)
 - 3D Shape Induction from 2D Views of Multiple Objects [[arXiv]](https://arxiv.org/abs/1612.05872)
@@ -304,6 +306,10 @@ This site is maintained by Pourya Shamsolmoali.
 - [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582) 
 
 ## Applied Other
+- Unsupervised Cipher Cracking Using Discrete GANs [[arXiv]](https://arxiv.org/abs/1801.04883)
+- Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models [[arXiv]](https://arxiv.org/abs/1805.06605)
+- DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data [[arXiv]](https://arxiv.org/abs/1706.02071)
+- One-Sided Unsupervised Domain Mapping [[arXiv]](https://arxiv.org/abs/1706.00826)
 - Adversarial Generation of Natural Language [[arXiv]](https://arxiv.org/abs/1705.10929)
 - Adversarial Ranking for Language Generation [[arXiv]](https://arxiv.org/abs/1705.11001)
 - Adversarial Training Methods for Semi-Supervised Text Classification [[arXiv]](https://arxiv.org/abs/1605.07725) [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_12.pdf)
