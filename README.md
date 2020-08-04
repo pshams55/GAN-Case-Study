@@ -35,7 +35,6 @@ This site is maintained by Pourya Shamsolmoali.
 ## Theory & Machine Learning
 - Adversarial Feature Learning [[arXiv]](https://arxiv.org/abs/1605.09782v7)
 - A Classification-Based Perspective on GAN Distributions [[arXiv]](https://arxiv.org/abs/1711.00970)
-- Conditional Infilling GANs for Data Augmentation in Mammogram Classification [[arXiv]](https://arxiv.org/abs/1807.08093)
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv]](https://arxiv.org/abs/1611.03852)
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
 - Activation Maximization Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1703.02000)
@@ -63,6 +62,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Class-Splitting Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.07359)
 - Comparison of Maximum Likelihood and GAN-based training of Real NVPs [[arXiv]](https://arxiv.org/abs/1705.05263)
 - Conditional CycleGAN for Attribute Guided Face Image Generation [[arXiv]](https://arxiv.org/abs/1705.09966)
+- Conditional Infilling GANs for Data Augmentation in Mammogram Classification [[arXiv]](https://arxiv.org/abs/1807.08093)
 - Conditional Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/wiseodd/generative-models)
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_1.pdf)
 - Continual Learning in Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1705.08395)
