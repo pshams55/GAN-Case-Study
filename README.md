@@ -33,6 +33,9 @@ This site is maintained by Pourya Shamsolmoali.
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
 
 ## Theory & Machine Learning
+- Sobolev GAN [[arXiv]](https://arxiv.org/abs/1711.04894)
+- Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1803.10892)
+- SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints [[arXiv]](https://arxiv.org/abs/1806.01482)
 - CapsGAN: Using Dynamic Routing for Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1806.03968)
 - BAGAN: Data Augmentation with Balancing GAN [[arXiv]](https://arxiv.org/abs/1803.09655)
 - Hierarchical Implicit Models and Likelihood-Free Variational Inference [[arXiv]](https://arxiv.org/abs/1702.08896)
@@ -146,6 +149,7 @@ This site is maintained by Pourya Shamsolmoali.
 - C-RNN-GAN: Continuous recurrent neural networks with adversarial training [[arXiv]](https://arxiv.org/abs/1611.09904)
 - Accelerating Science with Generative Adversarial Networks: An Application to 3D Particle Showers in Multi-Layer Calorimeters [[arXiv]](https://arxiv.org/abs/1705.02355)
 - Face Aging with Contextual Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1802.00237)
+- Free-Form Image Inpainting with Gated Convolution [[arXiv]](https://arxiv.org/abs/1806.03589)
 - Boundary-Seeking Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1702.08431v1)
 - Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1809.00437)
 - Generative Adversarial Frontal View to Bird View Synthesis [[arXiv]](https://arxiv.org/abs/1808.00327)
