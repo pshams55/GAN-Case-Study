@@ -46,6 +46,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Adversarially Learned Inference [[arXiv]](https://arxiv.org/abs/1606.00704) [[Code]](https://github.com/wiseodd/generative-models)
 - AE-GAN: adversarial eliminating with GAN [[arXiv]](https://arxiv.org/abs/1707.05474)
 - An Adversarial Regularisation for Semi-Supervised Training of Structured Output Neural Networks [[arXiv]](https://arxiv.org/abs/1702.02382)
+- Annealed Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1705.07505)
 - APE-GAN: Adversarial Perturbation Elimination with GAN [[arXiv]](https://arxiv.org/abs/1707.05474)
 - Associative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.06953)
 - Autoencoding beyond pixels using a learned similarity metric [[arXiv]](https://arxiv.org/abs/1512.09300)
@@ -142,10 +143,13 @@ This site is maintained by Pourya Shamsolmoali.
 - Tensorizing Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1710.10772)
 - The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv]](https://arxiv.org/abs/1705.10743)
 - Towards Understanding Adversarial Learning for Joint Distribution Matching [[arXiv]](https://arxiv.org/abs/1709.01215)
+- Triangle Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.06548)
 - Training generative neural networks via Maximum Mean Discrepancy optimization [[arXiv]](https://arxiv.org/abs/1505.03906)
 - Triple Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1703.02291)
 - Unrolled Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.02163)
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/Newmu/dcgan_code) [[Code]](https://github.com/pytorch/examples/tree/master/dcgan) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow) [[Code]](https://github.com/soumith/dcgan.torch) [[Code]](https://github.com/jacobgil/keras-dcgan)
+- Variational Approaches for Auto-Encoding Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.04987)
+- Variance Regularizing Adversarial Learning [[arXiv]](https://arxiv.org/abs/1707.00309)
 - Wasserstein GAN [[arXiv]](https://arxiv.org/abs/1701.07875) [[Code]](https://github.com/martinarjovsky/WassersteinGAN) [[Code]](https://github.com/wiseodd/generative-models)
 
 ## Applied Vision
@@ -155,6 +159,7 @@ This site is maintained by Pourya Shamsolmoali.
 - A step towards procedural terrain generation with GANs [[arXiv]](https://arxiv.org/abs/1707.03383) [[Code]](https://github.com/christopher-beckham/gan-heightmaps)
 - Abnormal Event Detection in Videos using Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1708.09644)
 - Adversarial Generation of Training Examples for Vehicle License Plate Recognition [[arXiv]](https://arxiv.org/abs/1707.03124)
+- Adversarial Framework for Unsupervised Learning of Motion Dynamics in Videos [[arXiv]](https://arxiv.org/abs/1803.09092)
 - Adversarial nets with perceptual losses for text-to-image synthesis [[arXiv]](https://arxiv.org/abs/1708.09321)
 - Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB [[arXiv]](https://arxiv.org/abs/1709.00265)
 - Adversarial Networks for the Detection of Aggressive Prostate Cancer [[arXiv]](https://arxiv.org/abs/1702.08014)
@@ -364,5 +369,6 @@ This site is maintained by Pourya Shamsolmoali.
 - To Create What You Tell: Generating Videos from Captions [[arXiv]](https://arxiv.org/abs/1804.08264)
 - Towards Grounding Conceptual Spaces in Neural Representations [[arXiv]](https://arxiv.org/abs/1706.04825)
 - Unsupervised Cipher Cracking Using Discrete GANs [[arXiv]](https://arxiv.org/abs/1801.04883)
+- ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network [[arXiv]](https://arxiv.org/abs/1711.02413)
 
 
