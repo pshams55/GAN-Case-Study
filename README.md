@@ -341,7 +341,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Video Prediction with Appearance and Motion Conditions [[arXiv]](https://arxiv.org/abs/1807.02635)
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images [[arXiv]](https://arxiv.org/abs/1702.07392)
 - Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[arXiv]](https://arxiv.org/abs/1705.10904)
-- [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582) 
+
 
 ## Medical Images
 - CT Image Enhancement Using Stacked Generative Adversarial Networks and Transfer Learning for Lesion Segmentation Improvement [[arXiv]](https://arxiv.org/abs/1807.07144)
@@ -356,6 +356,7 @@ This site is maintained by Pourya Shamsolmoali.
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 - Generative Adversarial Networks for Image-To-Image Translation on Multi-Contrast MR Images - A Comparision of CycleGAN and Unit [[arXiv]](https://arxiv.org/pdf/1806.07777v1.pdf) [[Code]](https://github.com/simontomaskarlsson/GAN-MRI)
 - Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
+- TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582) 
 
 
 ## Applied Other
