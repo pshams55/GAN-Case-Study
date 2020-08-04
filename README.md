@@ -29,6 +29,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy [[arXiv]](https://arxiv.org/abs/1906.01529)
 - A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications [[arXiv]](https://arxiv.org/abs/2001.06937)
 - A Review: Generative Adversarial Networks [[paper]](https://ieeexplore.ieee.org/abstract/document/8833686)
+- Generative Adversarial Network in Medical Imaging: A Review [[paper]](https://arxiv.org/pdf/1809.07294.pdf)
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
 
 ## Theory & Machine Learning
@@ -305,9 +306,12 @@ This site is maintained by Pourya Shamsolmoali.
 
 ## Medical Images
 - MedGAN: Medical Image Translation using GANs [[arXiv]](https://arxiv.org/abs/1806.06397)
+- PnP-AdaNet: Plug-and-Play Adversarial Domain Adaptation Network with a Benchmark at Cross-modality Cardiac Segmentation [[arXiv]](https://arxiv.org/pdf/1812.07907v1.pdf) [[Code]](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation)
 - Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs [[arXiv]](https://arxiv.org/abs/1706.02633)
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
+- Generative Adversarial Networks for Image-To-Image Translation on Multi-Contrast MR Images - A Comparision of CycleGAN and Unit [[arXiv]](https://arxiv.org/pdf/1806.07777v1.pdf) [[Code]](https://github.com/simontomaskarlsson/GAN-MRI)
 - Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
+- Medical Image Generation using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/2005.10687)
 
 ## Applied Other
 - Unsupervised Cipher Cracking Using Discrete GANs [[arXiv]](https://arxiv.org/abs/1801.04883)
