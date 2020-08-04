@@ -125,7 +125,6 @@ This site is maintained by Pourya Shamsolmoali.
 - Parametrizing filters of a CNN with a GAN [[arXiv]](https://arxiv.org/abs/1710.11386)
 - PixelGAN Autoencoders [[arXiv]](https://arxiv.org/abs/1706.00531)
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[arXiv]](https://arxiv.org/abs/1710.10196) [[Code]](https://github.com/tkarras/progressive_growing_of_gans)
-- SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arXiv]](https://arxiv.org/abs/1609.05473)
 - Simple Black-Box Adversarial Perturbations for Deep Networks [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_11.pdf)
 - Softmax GAN [[arXiv]](https://arxiv.org/abs/1704.06191)
@@ -262,7 +261,6 @@ This site is maintained by Pourya Shamsolmoali.
 - Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1706.09318)
 - SAD-GAN: Synthetic Autonomous Driving using Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.08788)
 - SalGAN: Visual Saliency Prediction with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1701.01081v2)
-- SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 - SeGAN: Segmenting and Generating the Invisible [[arXiv]](https://arxiv.org/abs/1703.10239)
 - Semantic Image Inpainting with Deep Generative Models [[arXiv]](https://arxiv.org/abs/1607.07539)
 - EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[arXiv]](https://arxiv.org/abs/1901.00212) [[Code]](https://github.com/knazeri/edge-connect)
@@ -282,7 +280,6 @@ This site is maintained by Pourya Shamsolmoali.
 - Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs) [[arXiv]](https://arxiv.org/abs/1707.09747)
 - Synthesizing Filamentary Structured Images with GANs [[arXiv]](https://arxiv.org/abs/1706.02185)
 - Synthetic Iris Presentation Attack using iDCGAN [[arXiv]](https://arxiv.org/abs/1710.10565)
-- Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
 - TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1703.06412)
 - Temporal Generative Adversarial Nets with Singular Value Clipping [[arXiv]](https://arxiv.org/abs/1611.06624)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches [[arXiv]](https://arxiv.org/abs/1706.02823)
@@ -310,6 +307,7 @@ This site is maintained by Pourya Shamsolmoali.
 - MedGAN: Medical Image Translation using GANs [[arXiv]](https://arxiv.org/abs/1806.06397)
 - Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs [[arXiv]](https://arxiv.org/abs/1706.02633)
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
+- Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
 
 ## Applied Other
 - Unsupervised Cipher Cracking Using Discrete GANs [[arXiv]](https://arxiv.org/abs/1801.04883)
