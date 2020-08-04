@@ -17,6 +17,7 @@ This site is maintained by Pourya Shamsolmoali.
 # Code
 - PyTorch-GAN [[Code]](https://github.com/eriklindernoren/PyTorch-GAN)
 - Keras-GAN [[Code]](https://github.com/eriklindernoren/Keras-GAN)
+- Tensorflow-GAN [[Code]](https://github.com/ckmarkoh/GAN-tensorflow) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow)
 - CycleGAN [[Code]](https://github.com/junyanz/CycleGAN/) [[Blog]](https://junyanz.github.io/CycleGAN/)
 - DCGAN [[Code]](https://github.com/mitchelljy/DCGAN-Keras)
 - Info-GAN [[Code]](https://github.com/JonathanRaiman/tensorflow-infogan)
