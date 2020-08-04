@@ -10,6 +10,7 @@ This site is maintained by Pourya Shamsolmoali.
   - [Overview](#overview)
   - [Theory & Machine Learning](#theory--machine-learning)
   - [Applied Vision](#applied-vision)
+  - [Medical Images](#medical-images)
   - [Applied Other](#applied-other)
   
 
@@ -304,6 +305,11 @@ This site is maintained by Pourya Shamsolmoali.
 - WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images [[arXiv]](https://arxiv.org/abs/1702.07392)
 - Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[arXiv]](https://arxiv.org/abs/1705.10904)
 - [TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582) 
+
+## Medical Images
+- MedGAN: Medical Image Translation using GANs [[arXiv]](https://arxiv.org/abs/1806.06397)
+- Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs [[arXiv]](https://arxiv.org/abs/1706.02633)
+- SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 
 ## Applied Other
 - Unsupervised Cipher Cracking Using Discrete GANs [[arXiv]](https://arxiv.org/abs/1801.04883)
