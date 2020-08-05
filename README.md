@@ -372,9 +372,14 @@ This site is maintained by Pourya Shamsolmoali.
 
 
 ## Medical Images
+- Combining Noise-to-Image and Image-to-Image GANs: Brain MR Image Augmentation for Tumor Detection [[arXiv]](https://arxiv.org/abs/1905.13456)
 - CT Image Enhancement Using Stacked Generative Adversarial Networks and Transfer Learning for Lesion Segmentation Improvement [[arXiv]](https://arxiv.org/abs/1807.07144)
+- Data augmentation using generative adversarial networks (CycleGAN) to improve generalizability in CT segmentation tasks [[paper]](https://www.nature.com/articles/s41598-019-52737-x)
+- f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518302640) [[Code]](https://github.com/tSchlegl/f-AnoGAN)
+- GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification [[arXiv]](https://arxiv.org/abs/1803.01229)
 - GANs for Biological Image Synthesis [[arXiv]](https://arxiv.org/abs/1708.04692)
 - Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss [[arXiv]](https://arxiv.org/abs/1708.00961)
+- Learning More with Less: Conditional PGGAN-based Data Augmentation for Brain Metastases Detection Using Highly-Rough Annotation on MR Images [[arXiv]](https://arxiv.org/abs/1902.09856)
 - Lesion Mask-based Simultaneous Synthesis of Anatomic and MolecularMR Images using a GAN [[arXiv]](https://arxiv.org/abs/2006.14761)
 - MADGAN: unsupervised Medical Anomaly Detection GAN using multiple adjacent brain MRI slice reconstruction  [[arXiv]](https://arxiv.org/abs/2007.13559)
 - MedGAN: Medical Image Translation using GANs [[arXiv]](https://arxiv.org/abs/1806.06397)
@@ -386,6 +391,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Skin Lesion Synthesis with Generative Adversarial Networks [[arXiv]](https://arxiv.org/pdf/1902.03253v1.pdf) [[Code]](https://github.com/alceubissoto/gan-skin-lesion)
 - SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[arXiv]](https://arxiv.org/abs/1706.01805)
 - Smile-GANs: Semi-supervised clustering via GANs for dissecting brain disease heterogeneity from medical images [[arXiv]](https://arxiv.org/abs/2006.15255)
+- Synthesizing Diverse Lung Nodules Wherever Massively: 3D Multi-Conditional GAN-based CT Image Augmentation for Object Detection [[arXiv]](https://arxiv.org/abs/1906.04962)
 - Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
 - TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582) 
 - XCAT-GAN for Synthesizing 3D Consistent Labeled Cardiac MR Images on Anatomically Variable XCAT Phantoms [[arXiv]](https://arxiv.org/abs/2007.13408)
