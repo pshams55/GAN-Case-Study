@@ -32,6 +32,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy [[arXiv]](https://arxiv.org/abs/1906.01529)
 - Generative Adversarial Network in Medical Imaging: A Review [[paper]](https://arxiv.org/pdf/1809.07294.pdf)
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
+- Generative Adversarial Network in Medical Imaging: A Review [[arXiv]](https://arxiv.org/abs/1809.07294)
 
 ## Theory & Machine Learning
 - Adversarial Feature Learning [[arXiv]](https://arxiv.org/abs/1605.09782v7)
