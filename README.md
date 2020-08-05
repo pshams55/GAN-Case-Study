@@ -30,7 +30,6 @@ This site is maintained by Pourya Shamsolmoali.
 - A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications [[arXiv]](https://arxiv.org/abs/2001.06937)
 - A Review: Generative Adversarial Networks [[paper]](https://ieeexplore.ieee.org/abstract/document/8833686)
 - Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy [[arXiv]](https://arxiv.org/abs/1906.01529)
-- Generative Adversarial Network in Medical Imaging: A Review [[paper]](https://arxiv.org/pdf/1809.07294.pdf)
 - Generative Adversarial Networks: An Overview [[arXiv]](https://arxiv.org/abs/1710.07035)
 - Generative Adversarial Network in Medical Imaging: A Review [[arXiv]](https://arxiv.org/abs/1809.07294)
 
