@@ -224,6 +224,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Correlated discrete data generation using adversarial training [[arXiv]](https://arxiv.org/abs/1804.00925)
 - Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields [[arXiv]](https://arxiv.org/abs/1708.08819)
 - Creatism: A deep-learning photographer capable of creating professional work [[arXiv]](https://arxiv.org/abs/1707.03491)
+- CR-GAN: Learning Complete Representations for Multi-view Generation [[paper]](https://www.ijcai.org/Proceedings/2018/0131.pdf)
 - Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation [[arXiv]](https://arxiv.org/abs/1702.03431)
 - CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training [[arXiv]](https://arxiv.org/abs/1703.10155)
 - Data Augmentation in Classification using GAN [[arXiv]](https://arxiv.org/abs/1711.00648)
