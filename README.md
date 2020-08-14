@@ -42,6 +42,8 @@ This site is maintained by Pourya Shamsolmoali.
 - FaceScrub [[Dataset]](http://vintage.winklerbros.net/facescrub.html)
 - Paris StreetView [[Dataset]](https://www.crcv.ucf.edu/projects/GMCP_Geolocalization/), [[Dataset]](https://www.crcv.ucf.edu/projects/GMCP_Geolocalization/)
 - YouTubeFace [[Dataset]](https://www.cs.tau.ac.il/~wolf/ytfaces/)
+- CartoonSet [[Dataset]](https://google.github.io/cartoonset/)
+- SENSIAC [[Dataset]](https://blogs.upm.es/gti-work/2013/05/06/sensiac-dataset-for-automatic-target-recognition-in-infrared-imagery/)
 
 # Papers
 ## Overview
