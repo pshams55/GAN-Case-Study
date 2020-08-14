@@ -29,6 +29,11 @@ This site is maintained by Pourya Shamsolmoali.
 # Datasets
 - MNIST [[Datase]](http://yann.lecun.com/exdb/mnist/)
 - Fashion MNIST [[Dataset]](https://www.kaggle.com/zalando-research/fashionmnist)
+- CIFAR-10 and CIFAR-100 [[Dataset]](https://www.cs.toronto.edu/~kriz/cifar.html)
+- CelebA [[Dataset]](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+- Cityscapes [[Dataset]](https://www.cityscapes-dataset.com/)
+- Toronto Faces [[Dataset]](https://www.cs.toronto.edu/~kriz/cifar.html)
+- UT Zappos50K [[Dataset]](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/)
 
 # Papers
 ## Overview
