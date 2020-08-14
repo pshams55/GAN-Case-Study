@@ -32,8 +32,16 @@ This site is maintained by Pourya Shamsolmoali.
 - CIFAR-10 and CIFAR-100 [[Dataset]](https://www.cs.toronto.edu/~kriz/cifar.html)
 - CelebA [[Dataset]](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - Cityscapes [[Dataset]](https://www.cityscapes-dataset.com/)
-- Toronto Faces [[Dataset]](https://www.cs.toronto.edu/~kriz/cifar.html)
+- Toronto Faces [[Dataset]](https://www.kaggle.com/general/50987)
 - UT Zappos50K [[Dataset]](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/)
+- ImageNet [[Dataset]](http://www.image-net.org/)
+- Van Gogh [[Dataset]](https://www.kaggle.com/gfolego/vangogh)
+- DSLR [[Dataset]](https://cvl.tuwien.ac.at/research/cvl-databases/pcb-dslr-dataset/)
+- Caltech-UCSD Birds-200-2011 [[Dataset]](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
+- SVHN [[Dataset]](http://ufldl.stanford.edu/housenumbers/)
+- FaceScrub [[Dataset]](http://vintage.winklerbros.net/facescrub.html)
+- Paris StreetView [[Dataset]](https://www.crcv.ucf.edu/projects/GMCP_Geolocalization/), [[Dataset]](https://www.crcv.ucf.edu/projects/GMCP_Geolocalization/)
+- YouTubeFace [[Dataset]](https://www.cs.tau.ac.il/~wolf/ytfaces/)
 
 # Papers
 ## Overview
