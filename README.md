@@ -402,7 +402,6 @@ This site is maintained by Pourya Shamsolmoali.
 - CT Image Enhancement Using Stacked Generative Adversarial Networks and Transfer Learning for Lesion Segmentation Improvement [[arXiv]](https://arxiv.org/abs/1807.07144)
 - Data augmentation using generative adversarial networks (CycleGAN) to improve generalizability in CT segmentation tasks [[paper]](https://www.nature.com/articles/s41598-019-52737-x)
 - DN-GAN: Denoising generative adversarial networks for speckle noise reduction in optical coherence tomography images [[paper]](https://www.sciencedirect.com/science/article/pii/S1746809419302137)
-
 - f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841518302640) [[Code]](https://github.com/tSchlegl/f-AnoGAN)
 - GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification [[arXiv]](https://arxiv.org/abs/1803.01229)
 - GANs for Biological Image Synthesis [[arXiv]](https://arxiv.org/abs/1708.04692)
