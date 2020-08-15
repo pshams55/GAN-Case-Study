@@ -419,7 +419,8 @@ This site is maintained by Pourya Shamsolmoali.
 - Smile-GANs: Semi-supervised clustering via GANs for dissecting brain disease heterogeneity from medical images [[arXiv]](https://arxiv.org/abs/2006.15255)
 - Synthesizing Diverse Lung Nodules Wherever Massively: 3D Multi-Conditional GAN-based CT Image Augmentation for Object Detection [[arXiv]](https://arxiv.org/abs/1906.04962)
 - Synthetic Medical Images from Dual Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1709.01872)
-- TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582) 
+- TomoGAN: Low-Dose X-Ray Tomography with Generative Adversarial Networks [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=TomoGAN%3A+Low-Dose+X-Ray+Tomography+with+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1902.07582)
+- Unpaired image denoising using a generative adversarial network in X-ray CT [[arXiv]](https://arxiv.org/abs/1903.06257)
 - XCAT-GAN for Synthesizing 3D Consistent Labeled Cardiac MR Images on Anatomically Variable XCAT Phantoms [[arXiv]](https://arxiv.org/abs/2007.13408)
 
 
