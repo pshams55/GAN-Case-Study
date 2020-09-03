@@ -18,6 +18,7 @@ This site is maintained by Pourya Shamsolmoali.
 # Code
 - Cleverhans: A library for benchmarking vulnerability to adversarial examples [[Code]](https://github.com/openai/cleverhans) [[Blog]](http://cleverhans.io/)
 - CycleGAN [[Code]](https://github.com/junyanz/CycleGAN/) [[Blog]](https://junyanz.github.io/CycleGAN/)
+- Cartoon Face Generation [[Code]](https://github.com/hsiehjackson/Cartoon-Face-Generation)
 - DCGAN [[Code]](https://github.com/mitchelljy/DCGAN-Keras)
 - Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [[Blog]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) [[Code]](https://github.com/devnag/pytorch-generative-adversarial-networks)
 - Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [[Code]](https://github.com/wiseodd/generative-models)
