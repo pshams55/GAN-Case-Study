@@ -35,6 +35,7 @@ This site is maintained by Pourya Shamsolmoali.
 - DSLR [[Dataset]](https://cvl.tuwien.ac.at/research/cvl-databases/pcb-dslr-dataset/)
 - FaceScrub [[Dataset]](http://vintage.winklerbros.net/facescrub.html)
 - Fashion MNIST [[Dataset]](https://www.kaggle.com/zalando-research/fashionmnist)
+- Generative Dog Images [[Dataset]](https://www.kaggle.com/c/generative-dog-images?rvi=1)
 - ImageNet [[Dataset]](http://www.image-net.org/)
 - MNIST [[Datase]](http://yann.lecun.com/exdb/mnist/)
 - Paris StreetView [[Dataset]](https://www.crcv.ucf.edu/projects/GMCP_Geolocalization/), [[Dataset]](https://www.crcv.ucf.edu/projects/GMCP_Geolocalization/)
