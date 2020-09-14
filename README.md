@@ -5,7 +5,7 @@ This site is maintained by Pourya Shamsolmoali.
 **NOTE:** This site will be updated on monthly basis.
 
 ## Contents
-- [Code](#code)
+- [Codes](#code)
 - [Datasets](#datasets)
 - [Papers](#papers)
   - [Overview](#overview)
