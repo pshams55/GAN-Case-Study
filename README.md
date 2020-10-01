@@ -416,6 +416,7 @@ This site is maintained by Pourya Shamsolmoali.
 - FFusionCGAN: An end-to-end fusion method for few-focus images using conditional GAN in cytopathological digital slides [[arXiv]](https://arxiv.org/abs/2001.00692)
 - FusionGAN: A generative adversarial network for infrared and visible image fusion [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253518301143)
 - MEF-GAN: Multi-Exposure Image Fusion via Generative Adversarial Networks [[paper]](https://ieeexplore.ieee.org/document/9112609)
+- MFIF-GAN: A New Generative Adversarial Network for Multi-Focus Image Fusion [[arXiv]](https://arxiv.org/abs/2009.09718)
 - Learning a Generative Model for Fusing Infrared and Visible Images via Conditional Generative Adversarial Network with Dual Discriminators [[paper]](https://www.ijcai.org/Proceedings/2019/0549.pdf)
 - Spatial Fusion GAN for Image Synthesis [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf)
 
