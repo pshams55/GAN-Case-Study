@@ -11,6 +11,7 @@ This site is maintained by Pourya Shamsolmoali.
   - [Overview](#overview)
   - [Theory & Machine Learning](#theory--machine-learning)
   - [Applied Vision](#applied-vision)
+  - [Image Fusion](#image-fusion)
   - [Medical Images](#medical-images)
   - [Applied Other](#applied-other)
   
@@ -409,6 +410,14 @@ This site is maintained by Pourya Shamsolmoali.
 - Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[arXiv]](https://arxiv.org/abs/1705.10904)
 - ZSCRGAN: A GAN-based Expectation Maximization Model for Zero-Shot Retrieval of Images from Textual Descriptions [[arXiv]](https://arxiv.org/abs/2007.12212)
 
+## Image Fusion
+- DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis [[arXiv]](https://arxiv.org/abs/2008.05865)
+- FD-GAN: Generative Adversarial Networks with Fusion-discriminator for Single Image Dehazing [[arXiv]](https://arxiv.org/abs/2001.06968)
+- FFusionCGAN: An end-to-end fusion method for few-focus images using conditional GAN in cytopathological digital slides [[arXiv]](https://arxiv.org/abs/2001.00692)
+- FusionGAN: A generative adversarial network for infrared and visible image fusion [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253518301143)
+- MEF-GAN: Multi-Exposure Image Fusion via Generative Adversarial Networks [[paper]](https://ieeexplore.ieee.org/document/9112609)
+- Learning a Generative Model for Fusing Infrared and Visible Images via Conditional Generative Adversarial Network with Dual Discriminators [[paper]](https://www.ijcai.org/Proceedings/2019/0549.pdf)
+- Spatial Fusion GAN for Image Synthesis [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf)
 
 ## Medical Images
 - Combining Noise-to-Image and Image-to-Image GANs: Brain MR Image Augmentation for Tumor Detection [[arXiv]](https://arxiv.org/abs/1905.13456)
