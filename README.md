@@ -27,7 +27,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Keras-GAN [[Code]](https://github.com/eriklindernoren/Keras-GAN)
 - PyTorch-GAN [[Code]](https://github.com/eriklindernoren/PyTorch-GAN)
 - Tensorflow-GAN [[Code]](https://github.com/ckmarkoh/GAN-tensorflow) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow)
-- 3D Object Reconstruction [[Code]](https://github.com/ckmarkoh/GAN-tensorflow) [[Code]](https://github.com/Yang7879/3D-RecGAN), [[Code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
+- 3D Object Reconstruction [[Code]](https://github.com/Yang7879/3D-RecGAN) [[Code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
 
 # Datasets
 - CartoonSet [[Dataset]](https://google.github.io/cartoonset/)
