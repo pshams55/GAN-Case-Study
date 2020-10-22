@@ -188,6 +188,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Stacked Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1612.04357)
 - Statistics of Deep Generated Images [[arXiv]](https://arxiv.org/abs/1708.02688)
 - Structured Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1711.00889)
+- Tangent-Normal Adversarial Regularization for Semi-supervised Learning [[pdf]](https://arxiv.org/pdf/1808.06088.pdf) [[code]](https://github.com/z331565360/Localized-GAN)
 - Tensorizing Generative Adversarial Nets [[arXiv]](https://arxiv.org/abs/1710.10772)
 - The Cramer Distance as a Solution to Biased Wasserstein Gradients [[arXiv]](https://arxiv.org/abs/1705.10743)
 - Towards Understanding Adversarial Learning for Joint Distribution Matching [[arXiv]](https://arxiv.org/abs/1709.01215)
