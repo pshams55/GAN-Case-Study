@@ -379,6 +379,7 @@ This site is maintained by Pourya Shamsolmoali.
 - T2Net: Synthetic-to-Realistic Translation for Solving Single-Image Depth Estimation Tasks [[arXiv]](https://arxiv.org/abs/1808.01454)
 - TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1703.06412)
 - Taming GANs with Lookahead [[arXiv]](https://arxiv.org/abs/2006.14567)
+- Tangent-Normal Adversarial Regularization for Semi-supervised Learning [[arXiv]](https://arxiv.org/pdf/1808.06088.pdf)
 - Temporal Generative Adversarial Nets with Singular Value Clipping [[arXiv]](https://arxiv.org/abs/1611.06624)
 - TextureGAN: Controlling Deep Image Synthesis with Texture Patches [[arXiv]](https://arxiv.org/abs/1706.02823)
 - Texture Synthesis with Spatial Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.08207v3) [[Code]](https://github.com/ubergmann/spatial_gan)
@@ -421,6 +422,12 @@ This site is maintained by Pourya Shamsolmoali.
 - MFIF-GAN: A New Generative Adversarial Network for Multi-Focus Image Fusion [[arXiv]](https://arxiv.org/abs/2009.09718)
 - Learning a Generative Model for Fusing Infrared and Visible Images via Conditional Generative Adversarial Network with Dual Discriminators [[paper]](https://www.ijcai.org/Proceedings/2019/0549.pdf)
 - Spatial Fusion GAN for Image Synthesis [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf)
+
+## Image Completion
+- Deep Portrait Image Completion and Extrapolation [[arXiv]](https://arxiv.org/pdf/1808.07757.pdf)
+- EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[arXiv]](https://arxiv.org/pdf/1901.00212v3.pdf)
+- Pluralistic Image Completion [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Pluralistic_Image_Completion_CVPR_2019_paper.pdf)
+- Semantic Image Completion and Enhancement using Deep Learning [[arXiv]](https://arxiv.org/pdf/1911.02222.pdf)
 
 ## Medical Images
 - Combining Noise-to-Image and Image-to-Image GANs: Brain MR Image Augmentation for Tumor Detection [[arXiv]](https://arxiv.org/abs/1905.13456)
