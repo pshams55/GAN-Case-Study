@@ -260,6 +260,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Creatism: A deep-learning photographer capable of creating professional work [[arXiv]](https://arxiv.org/abs/1707.03491)
 - CR-GAN: Learning Complete Representations for Multi-view Generation [[paper]](https://www.ijcai.org/Proceedings/2018/0131.pdf)
 - Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation [[arXiv]](https://arxiv.org/abs/1702.03431)
+- Cross-Domain Face Synthesis using a Controllable GAN [[arXiv]](https://arxiv.org/pdf/1910.14247.pdf)
 - CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training [[arXiv]](https://arxiv.org/abs/1703.10155)
 - Data Augmentation in Classification using GAN [[arXiv]](https://arxiv.org/abs/1711.00648)
 - Deep Generative Adversarial Compression Artifact Removal [[arXiv]](https://arxiv.org/abs/1704.02518)
