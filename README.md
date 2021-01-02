@@ -2,14 +2,13 @@
 A list of papers and other on Generative Adversarial Networks.
 This site is maintained by Pourya Shamsolmoali.
 
-## Citation
 If you find this work useful for your research, please cite our paper:
 
 ```
-@inproceedings{choi2020starganv2,
-  title={StarGAN v2: Diverse Image Synthesis for Multiple Domains},
-  author={Yunjey Choi and Youngjung Uh and Jaejun Yoo and Jung-Woo Ha},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+@article{shamsolmoali2020image,
+  title={Image Synthesis with Adversarial Networks: a Comprehensive Survey and Case Studies},
+  author={Shamsolmoali, Pourya and Zareapoor, Masoumeh and Granger, Eric and Zhou, Huiyu and Wang, Ruili and Celebi, M Emre and Yang, Jie},
+  journal={arXiv preprint arXiv:2012.13736},
   year={2020}
 }
 ```
