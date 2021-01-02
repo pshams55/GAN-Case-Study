@@ -361,6 +361,7 @@ This site is maintained by Pourya Shamsolmoali.
 - Semantic Image Inpainting with Deep Generative Models [[arXiv]](https://arxiv.org/abs/1607.07539)
 - StainGAN: Stain Style Transfer for Digital Histological Images [[arXiv]](https://arxiv.org/abs/1804.01601)
 - StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1711.09020)
+- StarGAN v2: Diverse Image Synthesis for Multiple Domains [[arXiv]](https://arxiv.org/abs/1912.01865)[[Code]](https://github.com/clovaai/stargan-v2)
 - Super-FAN: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with GANs [[arXiv]](https://arxiv.org/abs/1712.02765)
 - Semantic Image Synthesis via Adversarial Learning [[arXiv]](https://arxiv.org/abs/1707.06873)
 - Semantic Segmentation using Adversarial Networks [[arXiv]](https://arxiv.org/abs/1611.08408)
