@@ -2,6 +2,15 @@
 A list of papers and other on Generative Adversarial Networks.
 This site is maintained by Pourya Shamsolmoali.
 
+If you find this work useful for your research, please cite our paper:
+
+- @article{shamsolmoali2020image,
+  title={Image Synthesis with Adversarial Networks: a Comprehensive Survey and Case Studies},
+  author={Shamsolmoali, Pourya and Zareapoor, Masoumeh and Granger, Eric and Zhou, Huiyu and Wang, Ruili and Celebi, M Emre and Yang, Jie},
+  journal={arXiv preprint arXiv:2012.13736},
+  year={2020}
+}
+
 **NOTE:** This site will be updated on monthly basis.
 
 ## Contents
