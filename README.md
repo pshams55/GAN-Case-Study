@@ -30,6 +30,7 @@ This site is maintained by Pourya Shamsolmoali.
 - 3D Object Reconstruction [[Code]](https://github.com/Yang7879/3D-RecGAN) [[Code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
 
 # Datasets
+- Animal Faces-HQ dataset (AFHQ) [[Dataset]](https://www.kaggle.com/andrewmvd/animal-faces)
 - CartoonSet [[Dataset]](https://google.github.io/cartoonset/)
 - Caltech-UCSD Birds-200-2011 [[Dataset]](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
 - CelebA [[Dataset]](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
