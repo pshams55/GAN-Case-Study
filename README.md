@@ -37,6 +37,8 @@ If you find this work useful for your research, please cite our paper:
 - Info-GAN [[Code]](https://github.com/JonathanRaiman/tensorflow-infogan)
 - Keras-GAN [[Code]](https://github.com/eriklindernoren/Keras-GAN)
 - PyTorch-GAN [[Code]](https://github.com/eriklindernoren/PyTorch-GAN)
+- StarGAN [[Code]](https://github.com/yunjey/stargan)
+- StarGAN-v2 [[Code]](https://github.com/clovaai/stargan-v2)
 - Tensorflow-GAN [[Code]](https://github.com/ckmarkoh/GAN-tensorflow) [[Code]](https://github.com/carpedm20/DCGAN-tensorflow)
 - 3D Object Reconstruction [[Code]](https://github.com/Yang7879/3D-RecGAN) [[Code]](https://github.com/autonomousvision/differentiable_volumetric_rendering)
 
