@@ -250,6 +250,7 @@ If you find this work useful for your research, please cite our paper:
 - ArtGAN: Artwork Synthesis with Conditional Categorial GANs [[arXiv]](https://arxiv.org/abs/1702.03410)
 - Artificial Generation of Big Data for Improving Image Classification: A Generative Adversarial Network Approach on SAR Data [[arXiv]](https://arxiv.org/abs/1711.02010)
 - A Style-Based Generator Architecture for Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1812.04948.pdf)
+- Assessing Generative Models via Precision and Recall [[pdf]](https://arxiv.org/pdf/1806.00035.pdf) [[code]](https://github.com/msmsajjadi/precision-recall-distributions.)
 - Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis [[arXiv]](https://arxiv.org/abs/1706.08789)
 - Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1705.01908)
 - Automatic Liver Segmentation Using an Adversarial Image-to-Image Network [[arXiv]](https://arxiv.org/abs/1707.08037)
