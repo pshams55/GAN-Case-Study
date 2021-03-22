@@ -8,7 +8,7 @@ If you find this work useful for your research, please cite our paper:
 @article{shamsolmoali2020image,
   title={Image Synthesis with Adversarial Networks: a Comprehensive Survey and Case Studies},
   author={Shamsolmoali, Pourya and Zareapoor, Masoumeh and Granger, Eric and Zhou, Huiyu and Wang, Ruili and Celebi, M Emre and Yang, Jie},
-  journal={arXiv preprint arXiv:2012.13736},
+  journal={Information Fusion},
   year={2020}
 }
 ```
